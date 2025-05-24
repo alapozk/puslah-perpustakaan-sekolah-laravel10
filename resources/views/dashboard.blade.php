@@ -19,7 +19,7 @@
                             <img src="https://www.svgrepo.com/show/513520/book-closed.svg"
                                 class="mx-auto h-24 w-24" alt="Pinjam Buku">
                             <div class="px-6 py-4">
-                                <div class="font-bold text-xl mb-2">Perpustakaan Sekolah</div>
+                                <div class="font-bold text-xl mb-2">Perpustakaan TUBI</div>
                                 <p class="dark:text-gray-100 text-base">
                                     Pinjam Buku Favorit Kamu yang ada di Perpustakaan {{ $settings->webname }}.
                                 </p>
